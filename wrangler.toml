@@ -1,4 +1,5 @@
-name = "checker"
+# wrangler.toml
+name = 'checker-mp-server'
 main = "worker.js"
 compatibility_date = "2025-12-15"
 
