@@ -1,5 +1,5 @@
-# wrangler.toml
-name = 'checker-mp-server'
+# # wrangler.toml
+name = 'dawn-grass-51d1'
 main = "worker.js"
 compatibility_date = "2025-12-15"
 
